@@ -27,5 +27,6 @@ Bem-vindo ao repositório do site do Gordos Burger! Aqui você encontrará todo 
 ## 🚀 Como Explorar este Repositório?
 
 - Acesse pelo link do GitHub Pages aqui
+- https://imexplo.github.io/gordos_burguer.github.io/
 
 
